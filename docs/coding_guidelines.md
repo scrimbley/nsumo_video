@@ -71,6 +71,7 @@ serve as documentation.
 * A brief comment describing the module at top of every header file
 ``` C
 #ifndef UART_H
+#define UART_H
 // A UART driver for setting up and operating the UART peripheral. DMA...
 #endif // UART_H
 ```
